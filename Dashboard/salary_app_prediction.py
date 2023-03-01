@@ -76,7 +76,7 @@ def user_input_features():
     return pd.DataFrame(data, index=[0])
 df = user_input_features()
 # Load the trained TensorFlow model
-model = tf.keras.models.load_model('/Users/alfahwun/GMC/ANN/model1.h5')
+model = tf.keras.models.load_model('https://github.com/net4troll/DS-GMC-WS/raw/main/Dashboard/model1.h5')
 # Make predictions on the features
 predictions = model.predict(df)
 # Print the predictions
