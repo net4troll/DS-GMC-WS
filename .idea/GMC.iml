@@ -9,7 +9,8 @@
       <sourceFolder url="file://$USER_HOME$/miniforge3/lib/python3.10/site-packages/dlib-19.24.99-py3.10-macosx-11.0-arm64.egg" isTestSource="false" />
       <sourceFolder url="file://$USER_HOME$/miniforge3/lib/python3.10/site-packages/frozendict-2.3.0-py3.10.egg" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="$USER_HOME$/miniforge3" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="ds" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="workspace" />
   </component>
 </module>
